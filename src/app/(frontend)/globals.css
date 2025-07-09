@@ -19,6 +19,15 @@
   }
 }
 
+@layer base {
+  h2 {
+    font-family: 'Gas-Mask';
+    text-transform: uppercase;
+    font-size: 78px;
+    font-weight: 600;
+  }
+}
+
 @font-face {
   font-family: 'Effortless';
   src: url('/fonts/effortless-tattoo/Effortless Tattoo.otf') format('opentype');
