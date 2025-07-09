@@ -114,6 +114,8 @@ const config = {
               '--tw-prose-body': 'var(--text)',
               '--tw-prose-headings': 'var(--text)',
               h1: {
+                fontFamily: 'Effortless',
+                textTransform: 'uppercase',
                 fontWeight: 'normal',
                 marginBottom: '0.25em',
               },
@@ -132,7 +134,9 @@ const config = {
                 fontSize: '2.5rem',
               },
               h2: {
-                fontSize: '1.25rem',
+                fontFamily: 'Effortless',
+                textTransform: 'uppercase',
+                fontSize: '78px',
                 fontWeight: 600,
               },
             },
