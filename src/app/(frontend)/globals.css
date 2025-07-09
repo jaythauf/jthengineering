@@ -20,8 +20,24 @@
 }
 
 @layer base {
-  h2 {
+  h1 {
+    font-family: 'Effortless';
+    text-transform: uppercase;
+    font-size: 2.5rem;
+  }
+}
+
+@layer base {
+  h3 {
     font-family: 'Gas-Mask';
+    text-transform: uppercase;
+    font-size: 2.5rem;
+  }
+}
+
+@layer base {
+  h2 {
+    font-family: 'Gorck';
     text-transform: uppercase;
     font-size: 78px;
     font-weight: 600;
@@ -57,14 +73,14 @@
 }
 
 @font-face {
-  font-family: 'Gas-Mask';
+  font-family: 'Gorck';
   src: url('/fonts/gorck-helozat-trial/Gorck Helozat Trial.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Gas-Mask';
+  font-family: 'Knight';
   src: url('/fonts/knight-warrior/Knight Warrior.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
