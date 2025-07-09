@@ -117,6 +117,11 @@ const config = {
                 fontWeight: 'normal',
                 marginBottom: '0.25em',
               },
+              h1b: {
+                fontFamily: 'Effortless',
+                fontWeight: 'normal',
+                marginBottom: '0.25em',
+              },
             },
           ],
         },
