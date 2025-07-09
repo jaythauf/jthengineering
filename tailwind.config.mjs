@@ -114,7 +114,7 @@ const config = {
               '--tw-prose-body': 'var(--text)',
               '--tw-prose-headings': 'var(--text)',
               h1: {
-                fontFamily: 'Effortless',
+                fontFamily: 'Rogusta',
                 textTransform: 'uppercase',
                 fontWeight: 'normal',
                 marginBottom: '0.25em',
