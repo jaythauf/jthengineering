@@ -11,7 +11,13 @@
   h6 {
     font-size: unset;
     font-weight: unset;
+}
+
+@layer base {
+  p {
+    font-family: 'Mefora';
   }
+}
 
 @font-face {
   font-family: 'Effortless';
