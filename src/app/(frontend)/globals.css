@@ -15,7 +15,7 @@
 
 @layer base {
   p {
-    font-family: 'Mefora';
+    font-family: 'Knight';
   }
 }
 
@@ -37,7 +37,7 @@
 
 @layer base {
   h2 {
-    font-family: 'Gorck';
+    font-family: 'Mefora';
     text-transform: uppercase;
     font-size: 78px;
     font-weight: 600;
