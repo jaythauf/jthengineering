@@ -13,7 +13,49 @@
     font-weight: unset;
   }
 
-  :root {
+@font-face {
+  font-family: 'Effortless';
+  src: url('/fonts/effortless-tattoo/Effortless Tattoo.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rogusta';
+  src: url('/fonts/Rogusta Font/Rogusta.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mefora';
+  src: url('/fonts/mefora-demo-version/MeforaDemoVersion-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gas-Mask';
+  src: url('/fonts/gas-mask-warriors/GasMaskWarriors.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gas-Mask';
+  src: url('/fonts/gorck-helozat-trial/Gorck Helozat Trial.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gas-Mask';
+  src: url('/fonts/knight-warrior/Knight Warrior.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+:root {
     --background: 0 0% 100%;
     --foreground: 222.2 84% 4.9%;
 
